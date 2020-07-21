@@ -8,6 +8,13 @@ Resources shared during the 2020 CTE Conference "Coding in the Classroom Session
 - [Trinket Sense Hat Simulator](https://trinket.io/library/trinkets/d8e8abe6e2)
 - [Virtual Circuit Labs](https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc-virtual-lab)
 
+## Text Editors
+- [NotePad++](https://notepad-plus-plus.org/downloads/) (PC only)
+- [VS Code](https://code.visualstudio.com/)
+- [Atom](https://atom.io/)
+- [Brackets](http://brackets.io/)
+- [CodeSandbox]() (Online Editor)
+
 ## Coding Tutorials
 - [Code.org](https://code.org/)
 - [Free Code Camp](https://www.freecodecamp.org/)
