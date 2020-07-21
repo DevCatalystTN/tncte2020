@@ -1,2 +1,16 @@
-# tncte2020
+# CTE Conference 2020 - Coding in the Classroom
 Resources shared during the 2020 CTE Conference "Coding in the Classroom Session"
+
+# Virtual Resources
+- [CodePen](https://codepen.io/)
+- [CodeSanbox](https://codesandbox.io/dashboard)
+- [Trinket](https://trinket.io/)
+- [Trinket Sense Hat Simulator](https://trinket.io/library/trinkets/d8e8abe6e2)
+- [Virtual Circuit Labs](https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc-virtual-lab)
+
+## Coding Tutorials
+- [Code.org](https://code.org/)
+- [Free Code Camp](https://www.freecodecamp.org/)
+- [Codecademy](https://www.codecademy.com/)
+- [W3 Schools](https://www.w3schools.com/)
+- YouTubers ([mmTuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw) and [Caleb Curry](https://www.youtube.com/user/CalebTheVideoMaker2)
