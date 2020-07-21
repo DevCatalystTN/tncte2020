@@ -21,3 +21,5 @@ Resources shared during the 2020 CTE Conference "Coding in the Classroom Session
 - [Codecademy](https://www.codecademy.com/)
 - [W3 Schools](https://www.w3schools.com/)
 - YouTubers ([mmTuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw) and [Caleb Curry](https://www.youtube.com/user/CalebTheVideoMaker2)
+
+### [More Info About Dev Catalyst](https://www.devcatalyst.com/)
